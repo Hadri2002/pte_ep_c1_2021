@@ -1,0 +1,8 @@
+print("almaszár hossza:", len("almaszár"), "Hosszabb-e mint tíz:", len("almaszár") > 10)
+print("kerékgyártó hossza:", len("kerékgyártó"), "Hosszabb-e mint tíz:", len("kerékgyártó") > 10)
+print("Flóra-pihenő hossza:", len("Flóra-pihenő"), "Hosszabb-e mint tíz:", len("Flóra-pihenő") > 10)
+print("Malomvölgy hossza:", len("Malomvölgy"), "Hosszabb-e mint tíz:", len("Malomvölgy") > 10)
+print("Misina hossza:", len("Misina"), "Hosszabb-e mint tíz:", len("Misina") > 10)
+print("Égervölgyi tó hossza:", len("Égervölgyi tó"), "Hosszabb-e mint tíz:", len("Égervölgyi tó") > 10)
+print("Tenkes hossza:", len("Tenkes"), "Hosszabb-e mint tíz:", len("Tenkes") > 10)
+print("Zsolnay-kút hossza:", len("Zsolnay-kút"), "Hosszabb-e mint tíz:", len("Zsolnay-kút") > 10)
